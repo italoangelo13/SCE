@@ -7,7 +7,7 @@ define('senha', 'root');//kgclgn01
 
 
 //Configurações
-define('versao', '01.000.001');//kgclgn01
+define('versao', '01.001.000');//kgclgn01
 setlocale(LC_MONETARY,"pt_BR", "ptb");
 
 
