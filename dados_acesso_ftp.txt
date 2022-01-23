@@ -1,0 +1,5 @@
+Ftp - Kingcar
+Usuario:kingcarseminovos1
+Senha: Kingc@rftp2020
+Servidor:ftp.kingcarseminovos.com
+Porta:21

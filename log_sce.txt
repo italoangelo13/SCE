@@ -1,0 +1,7 @@
+login.php :: Iniciando Processo de Login.03-10-2021 07:32:28 :: login.php :: Iniciando Processo de Login.login.php :: Inicio - Instanciando Objeto03-10-2021 07:32:28 :: login.php :: Inicio - Instanciando Objetologin.php :: Fim - Instanciando Objeto03-10-2021 07:32:28 :: login.php :: Fim - Instanciando Objetologin.php :: Inicio - Recebendo Usuario e Senha03-10-2021 07:32:28 :: login.php :: Inicio - Recebendo Usuario e Senhalogin.php :: Fim - Recebendo Usuario e Senha.03-10-2021 07:32:28 :: login.php :: Fim - Recebendo Usuario e Senha.login.php :: Inicio - Autenticando Usuario.03-10-2021 07:32:28 :: login.php :: Inicio - Autenticando Usuario.login.php :: Fim - Autenticando Usuario.03-10-2021 07:32:28 :: login.php :: Fim - Autenticando Usuario.login.php :: Iniciando Processo de Login.03-10-2021 07:36:21 :: login.php :: Iniciando Processo de Login.
+login.php :: Inicio - Instanciando Objeto03-10-2021 07:36:21 :: login.php :: Inicio - Instanciando Objeto
+login.php :: Fim - Instanciando Objeto03-10-2021 07:36:21 :: login.php :: Fim - Instanciando Objeto
+login.php :: Inicio - Recebendo Usuario e Senha03-10-2021 07:36:21 :: login.php :: Inicio - Recebendo Usuario e Senha
+login.php :: Fim - Recebendo Usuario e Senha.03-10-2021 07:36:21 :: login.php :: Fim - Recebendo Usuario e Senha.
+login.php :: Inicio - Autenticando Usuario.03-10-2021 07:36:21 :: login.php :: Inicio - Autenticando Usuario.
+login.php :: Fim - Autenticando Usuario.03-10-2021 07:36:21 :: login.php :: Fim - Autenticando Usuario.
